@@ -1,0 +1,16 @@
+{
+  "name": "@xource/wabails",
+  "version": "1.0.0",
+  "description": "Wrapper that re-exports @whiskeysockets/baileys and adds safe helpers (not a WhatsApp protocol implementation).",
+  "main": "index.js",
+  "type": "commonjs",
+  "keywords": ["baileys-wrapper","whatsapp","helpers","wabails"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xource-dev/WaBails.git"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:Xource-dev/WaBails"
+  }
+}
